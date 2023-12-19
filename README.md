@@ -60,7 +60,7 @@ Primarily Non-Technical Roles:
 -Representation in leadership positions: Ensure underrepresented individuals have an equal chance in leadership positions.
 
 
-*Task 2: The Software Development Life Cycle (SDLC)
+*Task 2: The Software Development Life Cycle (SDLC)*
 
 - [x] Learn about the history of the SDLC
 - [x] How to implement the SDLC framework
@@ -181,6 +181,51 @@ Overall Project Outcome:
 -By aligning your role with the key trends in technology, you contribute to the success of the project by ensuring it remains adaptive, efficient, and secure in the ever-evolving technological landscape.
 
 
+*Task 3: Software Development Methodologies: Waterfall and Agile*
 
+- [x] Understand the Waterfall and Agile methods of software development, including how they originated and their advantages and disadvantages
 
+*Waterfall*
 
+- A project management approach that emphasizes a linear progression from beginning to end of a project. This methodology, often used by engineers, is front-loaded to rely on careful planning, detailed documentation, and consecutive execution
+
+**Advantages**
+-Work planning and budget forecasts can be relatively accurate even over a span of years
+-Process is straightforward, relatively simple, easily communicated, and doesn’t require training in mindset or process to use it
+-Teams that for some reason cannot work closely together or operate with shared responsibility can still collectively accomplish the project with well-documented outputs from each phase as input to the next
+-Its very easy to know how far along a project is, who is responsible at each stage, what “done” looks like, and when “done” will occur
+
+**Disadvantages**
+
+-Small tasks or details unfinished in one phase can hold up the whole process
+-Cumbersome and expensive to respond to significant changes in scope or design (which are inevitable over a project lasting months, let alone years)
+-Each phase and its corresponding team are relatively disconnected from the others, with the customers (whose needs are ostensibly driving the design and functionality of the software) as far removed as possible from the requirements definition and design phases where their input is most needed
+-Large documentation overhead drives up cost and delivery time
+
+*Agile*
+
+- The whole development cycle to be iterative, incremental, and collaborative with shared responsibility, rather than one-time-through and sequential.
+In this model, software is broken down into smaller sets of functionality, each of which is then designed, built, tested, and released in repeating waves or “sprints” in direct collaboration with the customer, who has input into each of those sprints, all along the development cycle. 
+
+The Agile implementation of the SDLC follows four key values:
+
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+
+With this idea of repeating waves of development and release of working software, Agile introduced a new concept for software development: the Minimum Viable Product (MVP). The MVP is the version of the product that has just enough working features and functionality to satisfy a customer need and collect maximum information about customer opinion and satisfaction with the least invested effort. By managing your Agile process to build the MVP first, you validate both your understanding of customer needs and the viability of the software with the least cost and the least risk, before iterating the process to add additional functionality.
+
+**Advantages**
+
+-Designed with change in mind. Changes to scope and design are expected and easily accommodated by the process
+-Easy and quick to pivot based on changing customer feedback
+-Useful value is delivered frequently and repeatedly throughout the lifecycle, starting with delivering the MVP
+-Faster to production deployment than with waterfall, with a generally lower overall risk profile and a higher ROI
+
+**Disadvantages**
+
+-Can get too responsive to frequent changes, with too much input from the customer. A good balance must be maintained
+-Requires training team members and customers to best implement and utilise the Agile mindset and Agile cultural work processes
+-Requires strong communication and teamwork skills to be effective
+-Less effective if the customer does not want to be a direct and active member of the team
