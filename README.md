@@ -229,3 +229,5 @@ With this idea of repeating waves of development and release of working software
 -Requires training team members and customers to best implement and utilise the Agile mindset and Agile cultural work processes
 -Requires strong communication and teamwork skills to be effective
 -Less effective if the customer does not want to be a direct and active member of the team
+
+s
