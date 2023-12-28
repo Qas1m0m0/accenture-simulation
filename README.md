@@ -60,6 +60,9 @@ Primarily Non-Technical Roles:
 -Representation in leadership positions: Ensure underrepresented individuals have an equal chance in leadership positions.
 
 
+
+
+
 *Task 2: The Software Development Life Cycle (SDLC)*
 
 - [x] Learn about the history of the SDLC
@@ -181,6 +184,10 @@ Overall Project Outcome:
 -By aligning your role with the key trends in technology, you contribute to the success of the project by ensuring it remains adaptive, efficient, and secure in the ever-evolving technological landscape.
 
 
+
+
+
+
 *Task 3: Software Development Methodologies: Waterfall and Agile*
 
 - [x] Understand the Waterfall and Agile methods of software development, including how they originated and their advantages and disadvantages
@@ -230,4 +237,13 @@ With this idea of repeating waves of development and release of working software
 -Requires strong communication and teamwork skills to be effective
 -Less effective if the customer does not want to be a direct and active member of the team
 
-s
+
+
+
+
+
+*Task 4: The Software Testing Lifecycle*
+
+- [x] Develop understanding of the Software Testing Lifecycle(STLC) and its advantages and disadvantages
+- [x] Understand advantages and disadvantages of automated testing
+
