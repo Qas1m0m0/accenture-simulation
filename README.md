@@ -247,3 +247,49 @@ With this idea of repeating waves of development and release of working software
 - [x] Develop understanding of the Software Testing Lifecycle(STLC) and its advantages and disadvantages
 - [x] Understand advantages and disadvantages of automated testing
 
+
+The Software Testing Lifecycle(STLC) is a conceptual framework desribing activities involved in process to ensure software doeswhat it is designed to do, without defects - assurance is called validation.
+
+Stages of STLC:
+
+1. Requirement Anlaysis: What functionality needs to be tested? How can the wuality of the software be validated?
+2. Test Planning: Develop testing plan for unit, integratio, system and user acceptance tests.
+3. Test Design: Develop test cases, test scripts and test data. 
+4. Test environment setup: Build + configure hardware and software environment used to conduct testing.
+5. Test Execution: Conduct testing using the test cases, and test scripts if automated testing is being employed. Unit, integration, system, and acceptance tests are performed during the relevant stages of the development lifecycle. Communicate defects back to the development team. Retest once defects have been corrected.
+6. Test Closeout: Complete all retests as needed. Analyse defect metrics and test results to document software quality.  Prepare and deliver final validation documentation as needed. Communicate insights that can be used to improve the overall development process.
+
+Other benefits of this structured lifecycle approach to testing include:
+
+-A systematic quality process that is repeatable, measurable, and continuously improvable
+-Defects can be identified earlier in the development cycle
+-Security issues can be identified earlier in the development cycle
+-Lower maintenance costs
+-Higher client/customer satisfaction
+-More stable and consistent system performance
+
+*Unit tests*: A code-level check, performed by members of the development team, to see if individual components of code are working correctly.
+Integration tests: Tests of the connectivity and data transfer between unit tested code components or other integration points in the system. Also often done by the development team, but could also be done by a QA team.
+*System tests*: Also known as end-to-end testing, system tests are conducted to test the completed, fully integrated software application from a technical point of view, checking that each input leads to the correct output. Often done by a QA testing team at the end of each release cycle. Often referred to as SIT (system integration testing).
+*Acceptance tests*: Tests performed by a QA team or a team of representative end users from the client to test the usability and functionality from the end user’s perspective.   Often referred to as UAT (user acceptance testing). Usually the last step before deployment to production and go-live.
+*Regression tests*: Systematic retesting of functionality that might have been affected by a modification made to other code to verify no unintended effects of the change. Usually performed by whoever did SIT or UAT testing.
+
+
+Automated Testing
+
+Automated testing uses software to execute test scripts to test functionality, speed and stability under load, transport and transformation of data, and any other aspects of the system that can be tested without human intervention.
+
+**Advantages**
+
+-Faster to execute testing
+-Can perform many test script in parallel
+-Faster to production deployment
+-Less expensive at scale
+-Run unattened 24/7
+
+**Disadvantages**
+
+-More expensive upfront
+-Complex technical infrastructure to maintain
+-Requires technical/coding skills to configure and operate
+-Doesn't catch usability issues
