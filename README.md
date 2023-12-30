@@ -295,3 +295,14 @@ Automated testing uses software to execute test scripts to test functionality, s
 -Requires technical/coding skills to configure and operate
 -Doesn't catch usability issues
 
+
+
+
+
+
+
+*Task 5: Algorithmic Thinking*
+
+- [x] Discover what an algorithm is and build understanding of algorithmic thinking
+
+
