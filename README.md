@@ -285,6 +285,7 @@ Automated testing uses software to execute test scripts to test functionality, s
 -Can perform many test script in parallel
 -Faster to production deployment
 -Less expensive at scale
+-More relaibale, less chance of human error
 -Run unattened 24/7
 
 **Disadvantages**
@@ -293,3 +294,4 @@ Automated testing uses software to execute test scripts to test functionality, s
 -Complex technical infrastructure to maintain
 -Requires technical/coding skills to configure and operate
 -Doesn't catch usability issues
+
