@@ -305,4 +305,19 @@ Automated testing uses software to execute test scripts to test functionality, s
 
 - [x] Discover what an algorithm is and build understanding of algorithmic thinking
 
+Computational Thinking: A structured problem-solving approach that starts with a problem statement and ends with a set of logical steps that can be followed by humans or computers to produce desired output, involving 4 elements:
 
+1. Decomposition: Breaking down larger complex problems, into smaller component parts
+2. Pattern Recognition: Analysing data to find any connections and relationships
+3. Abstraction: Identifying key data and r'ships that solve the problem
+4. Algorithmic Thinking: Designing reproducible step-by-step process solving the problem and producing desired output
+
+ALGORITHMIC THINKING IS THE KEY SKILL NEEDED TO BECOME AN EFFECTIVE PROGRAMMER
+
+What is an algorithm? An algorithm is simply a list or diagram of process steps that, when followed, start with the defined inputs and produce the defined outputs. Algorithmic thinking leads not to a single answer but rather to a process for getting the answer: a series of logical steps that are sequential, replicable, predictable, and reliable. In other words, given the same inputs, anyone using the algorithm will get the same output, every time.  
+
+A great example of algorithmic thinking in our daily lives is using a recipe to prepare food, like baking a cake. If you use the specified ingredients in the precisely specified amounts, and follow the defined set of steps exactly, you should get exactly the same cake at the end of the process, every time. Of course, because humans are the ones operating the algorithm, that rarely happens in real life.
+
+Algorithms that computers can follow, however, will arrive at the same outputs every time. A great example of algorithmic thinking used constantly in coding is the classic IF-THEN-ELSE function. This function simply instructs the computer to determine IF something is true, and if it is, THEN do something specific, and IF it is not true, ELSE do something, well, else.
+
+One way to write out an algorithm is to use pseudocode: writing out the steps in an algorithm using plain language rather than a programming language, but organized like the syntax of a programming language so it can more easily be translated into a programming language later. Pseudocode is intended to be read by humans rather than computers and is a good first step towards writing code. Here is a pseudocode example for an algorithm that uses the IF-THEN-ELSE function to prepare to go outside in any weather:
