@@ -321,3 +321,54 @@ A great example of algorithmic thinking in our daily lives is using a recipe to 
 Algorithms that computers can follow, however, will arrive at the same outputs every time. A great example of algorithmic thinking used constantly in coding is the classic IF-THEN-ELSE function. This function simply instructs the computer to determine IF something is true, and if it is, THEN do something specific, and IF it is not true, ELSE do something, well, else.
 
 One way to write out an algorithm is to use pseudocode: writing out the steps in an algorithm using plain language rather than a programming language, but organized like the syntax of a programming language so it can more easily be translated into a programming language later. Pseudocode is intended to be read by humans rather than computers and is a good first step towards writing code. Here is a pseudocode example for an algorithm that uses the IF-THEN-ELSE function to prepare to go outside in any weather:
+
+
+
+
+
+
+
+
+
+*Task 5: Code Debugging*
+
+- [x] Familiarise yourself with the concept of debugging and learn about the common categories of bugs in code
+- [x] Understand the commonly used techniques to debug code
+
+
+3 Categories of common bugs/ erros in computer code:
+
+1. Logic errors: Errors in the logic of the algorithm itself. Error in THINKING behind the code- inluding missing or unusual conditions under which a THEN or ELSE should occur but code doesn't include them becuase algorithm was incompletely specified.
+
+2. Syntax Errors: Erros in PROGRAMMING LANGUAGE VOCAB AND GRAMMAR when WRITING CODE. Prevent computer from correctly parsing and understanding code as written, so code will not run- including misspelling function or variable names and leaving out required parenthesis or semicolons
+
+3. Run-time Errors: Errors during execution of code. Code will run but output it wrong OR code stops running becayse condition doesn't exist, like misisng file or database inaccessible. 
+
+
+
+HOW TO DEBUG CODE:
+
+-Input simplification – input just one variable or bit of data at a time to see which input causes a problem
+-Stepping – watch the code execute one line at a time to see which line causes a problem and what the computer was trying to do at the moment the problem occurred
+-Backtracking – essentially stepping but stepping backwards from the point of error
+-Output statement tracing – add code at various points in your program to print out status or values of variables, and use the printed values to trace where the program went wrong and why
+-Divide and conquer – run only one section of code at a time (usually by “commenting out” the other sections so the computer doesn’t see them) to isolate the error systematically
+
+Task was to debug in PYTHON:
+
+print("This line of code is before both IF-ELSE functions")
+countervariable = 125
+if (countervariable < 100):
+    print("Counter is smaller than 100")
+    print("This line is in the first if section")
+else:
+    print("Counter is greater than 100")
+    print("This line is in the first else section")
+number = 3
+if (number > 0):
+    print("Number is a positive number")
+    print("This line is in the second if section")
+else:
+    print("Number is a negative number")
+    print("This line is in the second else section")
+print("This line of code is after both of the IF-ELSE functions")
